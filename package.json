@@ -1,0 +1,22 @@
+{
+  "name": "bornm-ecomm-auto-cy",
+  "version": "1.0.0",
+  "description": "Test automation for bornm-ecomm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dsantanaleal/bornm-ecomm-auto-cy.git"
+  },
+  "author": "Bornmay inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsantanaleal/bornm-ecomm-auto-cy/issues"
+  },
+  "homepage": "https://github.com/dsantanaleal/bornm-ecomm-auto-cy#readme",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  }
+}
